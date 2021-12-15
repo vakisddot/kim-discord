@@ -1,0 +1,6 @@
+> 📖 *Automated Descriptions* 📖
+> You can add a bunch of these to your server to poke fun at the user who used a filtered word
+
+> **`/kim desc_add`** - Add a description (':' at the end not necessary) *(/kim desc_add Oh no! @ is a donut who just tried to say this)*
+> **`/kim desc_del`** - Remove a description *(/kim desc_del has just said something horrible:)*
+> **`/kim desc_list`** - List all descriptions that are saved to the server

@@ -1,0 +1,6 @@
+> 📌 *Replacement Phrases* 📌
+> Database of words and phrases that the bot will pick from and replace filtered words with (when filter_mode is 0)
+
+> **`/kim repl_add`** - Add a replacement phrase *(/kim repl_add friendly guy)*
+> **`/kim repl_del`** - Remove a replacement phrase *(/kim repl_del stinky donut)*
+> **`/kim repl_list`** - List all replacement phrases that are for this server

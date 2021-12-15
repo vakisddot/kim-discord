@@ -1,0 +1,6 @@
+> 🔞 *Filtered Words* 🔞
+
+> **`/kim w_add`** - Add a new word that the bot will detect and filter out *(/kim w_add orange)*
+> (NOTE: In most cases, you don't need to add plural versions of the word. The bot will detect both *apple* and *apples*)
+> **`/kim w_del`** - Removes a word *(/kim w_del putin)*
+> **`/kim w_list`** - List all filtered words that are saved for this server

@@ -1,0 +1,9 @@
+> 👁 *Extras!* 👁
+
+> **`/kim filter_mode 0`** - Censored words get replaced with a random replacement phrase
+> **`/kim filter_mode 1`** - Instead of being replaced, censored words get tagged as spoilers that can be revealed
+
+> **`/kim dm 0`** - The bot will reply to your commands in the text channel
+> **`/kim dm 1`** - the bot will reply to your commands in the text channel and will delete your command message automatically
+>   **(with the previous 2 settings on, it would probably be a good idea to use bot commands only in a hidden moderator/admin chat)**
+> **`/kim dm 2`** - The bot will reply to your commands in a DM instead of the text channel

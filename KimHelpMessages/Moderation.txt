@@ -1,0 +1,12 @@
+> 👮 *User Moderation* 👮
+ 
+> Word threshold:
+> **`/kim threshold 0`** - The bot won't keep track of how many times a user has used filtered words
+> **`/kim threshold 1-255`** - The bot will keep track and act based on how many times a user has used a filtered word
+
+> Action upon reaching threshold 
+> **`/kim can_kick 0`** - No action
+> **`/kim can_kick 1`** - The bot will only warn users when they get close to the threshold
+> (For the next two commands, the bot needs the "Kick Members" and "Ban Members" permissions)
+> **`/kim can_kick 2`** - The bot will warn and kick users when they reach the threshold
+> **`/kim can_kick 3`** - The bot will warn and ban users when they reach the threshold

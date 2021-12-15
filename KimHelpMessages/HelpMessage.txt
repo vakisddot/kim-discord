@@ -1,0 +1,22 @@
+👁 Beep Bop... Enjoy Discord's finest chat filter bot: **K.I.M.**
+
+*Developed by* **@vakisddot**
+*Logo by* **@ForgehDesign**
+
+*Here are some commands to help you get started:*
+*(Keep in mind that you need to have certain server permissions to use these commands)*
+
+> 🔞 *Filtered Words* 🔞
+> **`/kim help 1`**
+
+> 📌 *Replacement Phrases* 📌
+> **`/kim help 2`**
+
+> 📖 *Automated Descriptions* 📖
+> **`/kim help 3`**
+
+> 👮 *User Moderation* 👮 
+> **`/kim help 4`**
+
+> 👁 *Extras!* 👁
+> **`/kim help 5`**
