@@ -10,4 +10,4 @@
   - adding or removing descriptions (a description is a piece of text that the bot will spew out whenever a user uses a filtered word, it can be used in a way to poke fun at the users who swear)
   - setting a server swear threshold and punishing users who go over said threshold!
   
-  ![alt text](http://url/to/Kim.png)
+ ![KIM](Kim.png)
