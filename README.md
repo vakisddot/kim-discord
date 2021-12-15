@@ -18,6 +18,9 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Code Explained:
+
+  K.I.M. uses Discord's API, combined with SQLite for Python.
+ 
 ### KimBot.py
   
   So the main file that we'll be looking at is **KimBot.py**. It basically features a bunch of functions that get executed on certain events. The most important function is **on_message()**, which reads data about every single text message that gets sent and stores it temporarily in variables in **config.py**. It then proceeds to generate a "character map", which basically is a python list that takes every single character from a string and determines if the string contains a "censor" word through an algorithm. If there's at least one *"True"* character in the map, then the bot has detected a bad word! 
