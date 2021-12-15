@@ -26,6 +26,7 @@
   
   The rest of the functions in **KimBot.py** either output data to the user or input data through SQL queries. (or they just help with that)
   
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### KimExtras.py
   
   This is the most complicated part of the code and the one that I hated debugging the most. This features the **sensitive()** function that tries to detect "l33t" speech, unicode, cyrillic letters, punctuations, spacing and character repititon, so that the bot will read "hello" and "heee33lllo_o000" as the same word. 
@@ -33,3 +34,17 @@
   **createBotMessage()** is the function that generates the bot's message that is sent whenever a user uses a swear word.  
   
   **createCharacterMap()** is the most cryptic function in my opinion. As mentioned earlier, it will return a list that shows what type of character each character is. (it can either be a good, bad or "skip" character). This helps with **createBotMessage()**, as the bot will know which characters from the message should actually be censored. 
+  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+### config.py
+  This stores global variables and is used for communication between the previous two files. It features the **addNewServer()** function that automatically updates the database whenever the bot joins a new server.
+  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+### KimDB.db (not present in repo)
+  This is the database file. The schema is available to see in **KimDB-schema**.
+  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+### KimHelpMessages
+  This is a folder of text files that store the information that is displayed whenever a **/kim help** command is executed.
+  
+
