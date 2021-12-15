@@ -43,8 +43,13 @@
   This stores global variables and is used for communication between the previous two files. It features the **addNewServer()** function that automatically updates the database whenever the bot joins a new server.
   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-### KimDB.db (not present in repo)
-  This is the database file. The schema is available to see in **KimDB-schema**.
+### KimDB.db
+  This is the database file. It features 5 tables - servers, users, words, phrases, descriptions.
+  - servers - stores server settings
+  - users - keeps track of how many times a user has sworn for each server
+  - words - stores profanity words for each server
+  - phrases - stores replacement phrases for each server
+  - descriptions - stores descriptions for each server
   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### KimHelpMessages
