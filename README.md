@@ -15,4 +15,3 @@
   - setting a server swear threshold and punishing users who go over said threshold!
   
   Add KIM to your server: https://discord.com/oauth2/authorize?client_id=854075604035305542&permissions=10246&scope=bot
- ![KIM](Kim.png)
