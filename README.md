@@ -1,5 +1,5 @@
 # K.I.M. - Discord Censor Bot
-#### Video Demo:  <URL HERE>
+#### Video Demo:  <https://youtu.be/qYyUt6RFYEE>
 #### Description:
   K.I.M. is a Discord anti-profanity bot that will do its best to clean up text messages from users.
   
